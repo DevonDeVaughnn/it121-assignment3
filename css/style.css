@@ -1,0 +1,29 @@
+body {
+  background: rgb(170, 192, 170);
+}
+.container {
+  width: 400px;
+  height: 400px;
+  background-color: rgb(185, 248, 227);
+  border: 0.3px solid black;
+  padding: 20px;
+  display: block;
+  margin-top: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+#title {
+  text-align: center;
+}
+#message {
+  text-align: center;
+  padding-bottom: 50px;
+}
+.player {
+  background: rgb(250, 197, 98);
+  text-align: center;
+  margin: 0 auto;
+  width: 50%;
+  float: left;
+}
